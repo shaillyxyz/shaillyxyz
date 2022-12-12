@@ -1,4 +1,4 @@
-- 👋 Hi, how are you all?
+- #👋 Hi, how are you all?
 -         I’m @shaillyxyz
 - 👀 I’m interested in coding , creativity, 
 - 🌱 I’m currently learning machine learning
